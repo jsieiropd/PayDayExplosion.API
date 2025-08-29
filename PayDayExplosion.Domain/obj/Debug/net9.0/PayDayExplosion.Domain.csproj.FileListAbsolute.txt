@@ -1,0 +1,12 @@
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\bin\Debug\net9.0\PayDayExplosion.Domain.deps.json
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\bin\Debug\net9.0\PayDayExplosion.Domain.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\bin\Debug\net9.0\PayDayExplosion.Domain.pdb
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.AssemblyInfoInputs.cache
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.AssemblyInfo.cs
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.sourcelink.json
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\refint\PayDayExplosion.Domain.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\PayDayExplosion.Domain.pdb
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Domain\obj\Debug\net9.0\ref\PayDayExplosion.Domain.dll
