@@ -1,0 +1,16 @@
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\bin\Release\net9.0\PayDayExplosion.Application.deps.json
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\bin\Release\net9.0\PayDayExplosion.Application.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\bin\Release\net9.0\PayDayExplosion.Application.pdb
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\bin\Release\net9.0\PayDayExplosion.Domain.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\bin\Release\net9.0\PayDayExplosion.Domain.pdb
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.csproj.AssemblyReference.cache
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.AssemblyInfoInputs.cache
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.AssemblyInfo.cs
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.sourcelink.json
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayEx.CB3E4A08.Up2Date
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\refint\PayDayExplosion.Application.dll
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\PayDayExplosion.Application.pdb
+C:\Users\Jose Sieiro\Source\Repos\PayDayExplosion\PayDayExplosion.Application\obj\Release\net9.0\ref\PayDayExplosion.Application.dll
