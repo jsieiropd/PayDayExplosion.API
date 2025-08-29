@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayDayExplosion.Api", "PayDayExplosion.Api\PayDayExplosion.Api.csproj", "{D6BFBF7F-4133-46F0-A683-D4FBE8DA2F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayDayExplosion.Infrastructure", "PayDayExplosion.Infrastructure\PayDayExplosion.Infrastructure.csproj", "{33BEB993-774C-48DC-B2EB-607B780B09A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayDayExplosion.Application", "PayDayExplosion.Application\PayDayExplosion.Application.csproj", "{4ED34811-9825-498F-AF71-944B4239AC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayDayExplosion.Domain", "PayDayExplosion.Domain\PayDayExplosion.Domain.csproj", "{9D8BDB9C-DAC2-47D6-86A3-70B74A151431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BFBF7F-4133-46F0-A683-D4FBE8DA2F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BFBF7F-4133-46F0-A683-D4FBE8DA2F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BFBF7F-4133-46F0-A683-D4FBE8DA2F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BFBF7F-4133-46F0-A683-D4FBE8DA2F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BEB993-774C-48DC-B2EB-607B780B09A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BEB993-774C-48DC-B2EB-607B780B09A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BEB993-774C-48DC-B2EB-607B780B09A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BEB993-774C-48DC-B2EB-607B780B09A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED34811-9825-498F-AF71-944B4239AC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED34811-9825-498F-AF71-944B4239AC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED34811-9825-498F-AF71-944B4239AC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED34811-9825-498F-AF71-944B4239AC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8BDB9C-DAC2-47D6-86A3-70B74A151431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8BDB9C-DAC2-47D6-86A3-70B74A151431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8BDB9C-DAC2-47D6-86A3-70B74A151431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8BDB9C-DAC2-47D6-86A3-70B74A151431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
